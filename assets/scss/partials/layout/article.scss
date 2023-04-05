@@ -38,7 +38,7 @@
             color: var(--card-text-color-main);
 
             img {
-                max-width: 100%;
+                max-width: 90%; // 原本是100%
                 height: auto;
             }
         }

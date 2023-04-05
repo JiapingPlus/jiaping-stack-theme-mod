@@ -27,7 +27,8 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /img/favicon.png 
+    # 改动网站Icon。文件存放在static/img中。
 
     footer:
         since: 2023
@@ -58,7 +59,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: waline
 
         disqusjs:
             shortname:
@@ -87,10 +88,10 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
         waline:
-            serverURL:
+            serverURL: https://waline-blog-commets-set.vercel.app/
             lang:
             visitor:
-            avatar:
+            avatar: 'monsterid'
             emoji:
                 - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
             requiredMeta:
@@ -99,7 +100,7 @@ params:
                 - url
             placeholder:
             locale:
-                admin: Admin
+                admin: 首阳山发电风车
 
         twikoo:
             envId:

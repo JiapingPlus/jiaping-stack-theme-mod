@@ -4,12 +4,23 @@
     .waline-container {
         background-color: var(--card-background);
         border-radius: var(--card-border-radius);
-        box-shadow: var(--shadow-l1);
+        box-shadow: var(--shadow-l2);
         padding: var(--card-padding);
+         /* 主题色 */
+        --waline-theme-color: #34495e; 
+        /* 主题色，提交按钮和ID颜色 */
+        --waline-active-color: #bababa; 
+        /* 鼠标移到提交按钮上的颜色 */
+          /* 徽章 */
+        --waline-badge-color: #34495e; 
+        /* 博主徽章色 */
     }
     .waline-container .vcount {
         color: var(--card-text-color-main);
     }
+    :root{
+    --waline-border-color:transparent;
+    }  
 </style>
 
 {{- with .Site.Params.comments.waline -}}
@@ -23,10 +34,10 @@
 
         {{- $config = merge $config (dict $k $val) -}}
     {{- end -}}
-{{- end -}}
+{{- end -}}    
 
 <script>
-    /// Waline client configuration see: https://waline.js.org/en/reference/client.html
+    // Waline client configuration see: https://waline.js.org/en/reference/client.html
     new Waline({{ $config | jsonify | safeJS }});
 </script>
 {{- end -}}
