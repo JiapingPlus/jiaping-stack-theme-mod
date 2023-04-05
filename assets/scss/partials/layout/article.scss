@@ -1,6 +1,6 @@
 .article-page {
     &.hide-sidebar-sm .left-sidebar {
-        display: none;
+        display: flex;
 
         @include respond(md) {
             display: inherit;
@@ -80,6 +80,7 @@
     }
 }
 
+//这个是不是右侧栏？
 #article-toolbar {
     display: flex;
     align-items: center;
@@ -184,6 +185,7 @@
     }
 }
 
+//之前的都是3.16中没有的
 .widget--toc {
     background-color: var(--card-background);
     border-radius: var(--card-border-radius);
@@ -195,7 +197,7 @@
 
     #TableOfContents {
         overflow-x: auto;
-        max-height: 150vh;
+        max-height: 75vh; //控制目录的最大高度
 
         ol,
         ul {
@@ -220,13 +222,14 @@
         }
 
         li {
-            margin: 5px 20px;
+            margin: 8px 10px;
+            //第一个是目录的行距，第二个是目录的总距离
             padding: 6px;
 
             & > ol,
             & > ul {
-                margin-top: 10px;
-                padding-left: 10px;
+                margin-top: 10px; // 控制子列表和父列表项之间的距离（当TOC不只有一层目录的时候有用）
+                padding-left: 10px; // 子列表项的向右缩进距离（当TOC不只有一层目录的时候有用）
                 margin-bottom: -5px;
 
                 & > li:last-child {

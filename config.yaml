@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Example Site
+title: 嘉平冷不丁
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -30,16 +30,17 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2023
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 MST
+        published: April 04, 2023
+        lastUpdated: April 04, 2023 10:04 MST
+        #改了好像没什么用，再看看
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🏳‍🌈
+        subtitle: 未免天下无所适从，还请殿下当仁不让。
         avatar:
             enabled: true
             local: true
@@ -48,9 +49,11 @@ params:
     article:
         math: false
         toc: true
+        #flase会导致目录丢失
         readingTime: true
         license:
-            enabled: true
+            enabled: false
+            #改动，原来是true，true的话会显示default的内容
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -131,6 +134,7 @@ params:
         cusdis:
             host:
             id:
+
     widgets:
         enabled:
             - search
@@ -190,7 +194,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/5ammyZ/Hugo-stack-theme-mod
           params:
               icon: brand-github
 

@@ -56,8 +56,10 @@
 
     <ol class="menu" id="main-menu">
         {{ $currentPage := . }}
+        {{ $siteTitle := .Site.Title }}
         {{ range .Site.Menus.main }}
         {{ $active := or (eq $currentPage.Title .Name) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
+        {{ $active := or ($active) (and (eq $currentPage.Title $siteTitle ) (eq .Identifier "home")) }}
 
         <li {{ if $active }} class='current' {{ end }}>
             <a href='{{ .URL | relLangURL }}' {{ if eq .Params.newTab true }}target="_blank"{{ end }}>

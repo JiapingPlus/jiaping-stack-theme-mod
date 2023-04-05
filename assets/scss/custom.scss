@@ -10,6 +10,7 @@
         display: none;
     }
 }
+//这一块让右侧栏滑动起来
 
 // .widget {
 //     max-height: 100vh;
@@ -136,4 +137,78 @@ blockquote.quote {
 ::selection {
     color: #fff;
     background: #34495e;
+}
+
+//修改界面自适应比例
+.container {
+    margin-left: auto;
+    margin-right: auto;
+
+    &.extended {
+        /* range: 768-1024 */
+        @include respond(md) {
+            max-width: 1024px;
+            --left-sidebar-max-width: 25%;
+            --right-sidebar-max-width: 30%;
+        }
+
+        /* range: 1024-1280 */
+        @include respond(lg) {
+            max-width: 1280px;
+            --left-sidebar-max-width: 17%;
+            --right-sidebar-max-width: 25%;
+        }
+    }
+
+    &.compact {
+        @include respond(md) {
+            --left-sidebar-max-width: 25%;
+            max-width: 768px;
+        }
+
+        @include respond(lg) {
+            max-width: 1024px;
+            --left-sidebar-max-width: 20%;
+        }
+
+        @include respond(xl) {
+            max-width: 1280px;
+        }
+    }
+}
+
+.left-sidebar {
+    --sidebar-element-separation: 20px;
+    margin-right: -2%;
+    //中间栏与左侧的宽度，px调整。
+    padding: var(--main-top-padding) 0px;
+    max-height: 110vh;
+    padding-right: 35px;
+}
+
+.right-sidebar {
+    margin-left: 18px;
+}
+//左右两边想要更窄一点，没找到参数在哪里，回头再找找。
+
+//追加一个美化过的进度条
+html{
+    ::-webkit-scrollbar {
+        width: 20px;
+      }
+      
+      ::-webkit-scrollbar-track {
+        background-color: transparent;
+      }
+      
+      ::-webkit-scrollbar-thumb {
+        background-color: #d6dee1;
+        border-radius: 20px;
+        border: 6px solid transparent;
+        background-clip: content-box;
+      }
+      
+      ::-webkit-scrollbar-thumb:hover {
+        background-color: #a8bbbf;
+      }
 }

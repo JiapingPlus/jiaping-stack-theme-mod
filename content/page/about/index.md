@@ -1,13 +1,13 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: 嘉平冷不丁堂堂冒出！关于我、关于博客建站与装修、我的联系方式。
+date: '2023-04-04'
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-04-04'
+slug: stack-theme-mod 
 menu:
     main: 
         weight: -90
@@ -15,20 +15,55 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 关于我
 
-Hugo makes use of a variety of open source projects including:
+* 可以叫我**嘉平**，当然叫你所知道的别的称呼也都可以。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* **potatoplus**：土豆加，稍微把土倒立，它们可以组成一个嘉。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+点击左栏中的TAG，可以快速了解一个碎片化的我（探头）
+
+
+## 建站与装修记录
+
+* 23/04/02：建站
+
+* 23/04/04：安装评论区
+
+* 23/04/06：添加标签墙
+
+* 23/04/05：去除右侧CATEGORIES、ARCHIVES。
+
+* 感谢[小球飞鱼](https://mantyke.icu/)以及链接的其他博客主，这一整个博客都是站在巨人的肩膀上搭建完成的！
+
+### 建站
+
+使用的建站教程：
+
+* [Hugo | 一起动手搭建个人博客吧](https://mantyke.icu/posts/2021/hugo-build-blog/) 
+
+* [Hugo | Hugo-stack-theme 主题魔改版](https://mantyke.icu/posts/2022/stack-theme-mod/)
+
+* [个站 | 从零开始的Hugo博客建站](https://randomwaves.space/posts/build-a-hugo-site-from-zero/)
+
+
+### 装修
+
+安装评论区：
+
+* [Hugo | 为 Blog 增加评论区](https://mantyke.icu/posts/2021/comment/)
+
+添加标签墙：
+
+* [Blog | 主题重新施工，和书影游展示墙](https://mantyke.icu/posts/2022/a-flower-upon-your-return/)
+
+* [Mengru的空间-新主题](https://mengru.space/?weeks/2022/24)
+
+
+
+## 如何联系我
+
+* **邮箱**：jiaping2020@126.com
