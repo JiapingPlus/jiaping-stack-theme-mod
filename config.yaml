@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: stack
 paginate: 5
-title: 嘉平冷不丁
+title: 尽逐春风
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -31,8 +31,9 @@ params:
     # 改动网站Icon。文件存放在static/img中。
 
     footer:
-        since: 2023
+        since: 2023-2024
         customText:
+    # 这里改动的是foot-c后的年份
 
     dateFormat:
         published: April 04, 2023
@@ -41,7 +42,7 @@ params:
 
     sidebar:
         emoji: 🏳‍🌈
-        subtitle: 未免天下无所适从，还请殿下当仁不让。
+        subtitle: 今我不乐，岁月如驰。
         avatar:
             enabled: true
             local: true
