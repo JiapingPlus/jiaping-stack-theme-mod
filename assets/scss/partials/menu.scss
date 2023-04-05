@@ -154,7 +154,7 @@
     }
 
     @include respond(xl) {
-        margin-top: 30px;
+        margin-top: 20px;
     }
 
     li {
@@ -166,7 +166,8 @@
             margin-bottom: 15px;
 
             @include respond(xl) {
-                margin-bottom: 20px;
+                margin-bottom: 5px;
+                // 这里掌管menu各个小按钮的行距
             }
         }
 
