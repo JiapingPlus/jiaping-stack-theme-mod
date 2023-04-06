@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: stack
 paginate: 5
-title: 尽逐春风
+title: 次世嘉平
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -31,7 +31,7 @@ params:
     # 改动网站Icon。文件存放在static/img中。
 
     footer:
-        since: 2023-2024
+        since: 2023
         customText:
     # 这里改动的是foot-c后的年份
 
@@ -42,7 +42,7 @@ params:
 
     sidebar:
         emoji: 🏳‍🌈
-        subtitle: 今我不乐，岁月如驰。
+        subtitle: 人生好梦，尽逐春风。
         avatar:
             enabled: true
             local: true
@@ -97,7 +97,6 @@ params:
                 - https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs
                 - https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-gif
                 - https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-png
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
             requiredMeta:
                 - name
                 - email
