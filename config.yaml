@@ -202,11 +202,14 @@ menu:
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: rss
+          name: RSS
+          url: https://potatoplus.icu/index.xml
+        #   是不是也可以直接/index.xml  
+        #   好像会报错但先这样吧
           params:
-              icon: brand-twitter
+              icon: rss
+        
 
 related:
     includeNewer: true

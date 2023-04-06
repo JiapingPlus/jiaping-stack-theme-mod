@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on 嘉平冷不丁</title>
-        <link>https://example.com/page/</link>
-        <description>Recent content in Pages on 嘉平冷不丁</description>
+        <title>Pages on 次世嘉平</title>
+        <link>https://potatoplus.icu/page/</link>
+        <description>Recent content in Pages on 次世嘉平</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://potatoplus.icu/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://example.com/stack-theme-mod/</link>
+        <link>https://potatoplus.icu/stack-theme-mod/</link>
         <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/stack-theme-mod/</guid>
+        <guid>https://potatoplus.icu/stack-theme-mod/</guid>
         <description>&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -82,18 +82,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://example.com/archives/</link>
+        <link>https://potatoplus.icu/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://potatoplus.icu/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Friends</title>
-        <link>https://example.com/links/</link>
+        <link>https://potatoplus.icu/links/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/links/</guid>
+        <guid>https://potatoplus.icu/links/</guid>
         <description>&lt;style&gt;
 .article-header {
     display: none;
@@ -133,18 +133,18 @@
         </item>
         <item>
         <title>Interests</title>
-        <link>https://example.com/interests/</link>
+        <link>https://potatoplus.icu/interests/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/interests/</guid>
+        <guid>https://potatoplus.icu/interests/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.com/search/</link>
+        <link>https://potatoplus.icu/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://potatoplus.icu/search/</guid>
         <description></description>
         </item>
         

@@ -54,7 +54,7 @@
 
     .article-list--tile {
         display: flex;
-        padding-bottom: 15px;
+        padding-bottom: 10px;
 
         article {
             width: 200px; //改爲200px
@@ -70,6 +70,36 @@
             .article-details {
                 padding: 20px;
                 justify-content: center; //添加justify-content設定，保持字體居中
+            }
+
+        }
+    }
+
+    .article-list--tagtile {
+        display: flex;
+        padding-bottom: 10px;
+        flex-wrap: wrap; //实现Archive中的Tag卡片自动换行
+
+        article {
+            // background: var(--card-background); // 注释掉会变透明,不注释掉会变白
+            border-radius: 10px;//也是从widgets.scss抄过来的,变圆角
+            transition: box-shadow 0.3s ease;
+
+            width: auto; //改爲200px
+            height: auto; //改爲50px
+            // margin-left: 7px; 
+            margin-right: 5px; //改爲5px
+            margin-top: 7px; //新增一行
+            flex-shrink: 0;
+            box-shadow: var(--shadow-l3); //改个卡片阴影
+
+            .article-title {
+                margin: 0;
+                font-size: 1.4rem;
+            }
+
+            .article-details {
+                padding: 15px 22px;
             }
 
         }
