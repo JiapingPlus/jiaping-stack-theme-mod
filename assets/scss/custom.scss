@@ -212,3 +212,25 @@ html{
         background-color: #a8bbbf;
       }
 }
+
+//为图片轮播部分加入的css
+//from 小球飞鱼
+.swiper-container {
+    max-width: 700px;
+    // 限制了最大宽度（820 是试出来的值），原因是如果按照文章原本的写法，会出现一个很奇妙的情况：刚载入时一切正常，刷新后图片突然放大，溢出显示区域，但只要稍微拉一下浏览器窗口大小就又恢复正常。
+    // 图片最大宽度到时插图片时再调
+    margin: 2em auto;
+
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background-color: #fff;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+        margin: 0 !important;
+    }
+}

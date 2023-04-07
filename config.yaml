@@ -57,6 +57,8 @@ params:
             enabled: false
             #改动，原来是true，true的话会显示default的内容
             default: Licensed under CC BY-NC-SA 4.0
+    
+    enableimgloop: true
 
     comments:
         enabled: true
