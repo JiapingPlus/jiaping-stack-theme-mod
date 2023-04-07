@@ -23,3 +23,7 @@
 
 {{- template "_internal/google_analytics.html" . -}}
 {{- partial "head/custom.html" . -}}
+
+<!-- 添加了umami -->
+{{ if not .Site.IsServer }}
+<script async defer data-website-id="930ec3c0-6eb1-43f2-a6ac-aa6f0c7f3a4c" src="https://umami-two-wheat.vercel.app/umami.js"></script>
