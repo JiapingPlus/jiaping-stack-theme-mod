@@ -331,7 +331,7 @@
         padding: 2px 4px;
         border-radius: var(--tag-border-radius);
         font-family: var(--code-font-family);
-        word-wrap: break-word;
+        // word-wrap: break-word;
     }
 
     .gallery {
@@ -340,13 +340,10 @@
         flex-direction: row;
         justify-content: center;
         margin: 1.5em 0;
+        gap: 10px;
 
         figure {
             margin: 0;
-
-            & + figure {
-                margin-left: 10px;
-            }
         }
     }
 
@@ -359,9 +356,14 @@
         line-height: 1.428571429;
         word-break: break-all;
         padding: var(--card-padding);
-        white-space: pre-wrap; //长代码自动换行适应页面
-        word-wrap: break-word; //允许长单词或 URL 地址换行到下一行
-
+        //  keep Codeblocks LTR
+        [dir="rtl"] & {
+            direction: ltr;
+        }
+        // white-space: pre-wrap; 
+        //长代码自动换行适应页面
+        // word-wrap: break-word; 
+        //允许长单词或 URL 地址换行到下一行
 
         code {
             color: unset;
@@ -370,6 +372,50 @@
             padding: 0;
         }
     }
+
+    // .highlight {
+    //     background-color: var(--pre-background-color);
+    //     padding: var(--card-padding);
+    //     position: relative;
+
+    //     &:hover {
+    //         .copyCodeButton {
+    //             opacity: 1;
+    //         }
+    //     }
+    //     // keep Codeblocks LTR
+    //     [dir="rtl"] & {
+    //         direction: ltr;
+    //     }
+    //     pre {
+    //         margin: initial;
+    //         padding: 0;
+    //         margin: 0;
+    //         width: auto;
+    //     }
+    // }
+
+    // .copyCodeButton {
+    //     position: absolute;
+    //     top: calc(var(--card-padding));
+    //     right: calc(var(--card-padding));
+    //     background: var(--card-background);
+    //     border: none;
+    //     box-shadow: var(--shadow-l2);
+    //     border-radius: var(--tag-border-radius);
+    //     padding: 8px 16px;
+    //     color: var(--card-text-color-main);
+    //     cursor: pointer;
+    //     font-size: 14px;
+    //     opacity: 0;
+    //     transition: opacity 0.3s ease;
+    // }
+
+    // .table-wrapper {
+    //     padding: 0 var(--card-padding);
+    //     overflow-x: auto;
+    //     display: block;
+    // }    
 
     table {
         width: 100%;
@@ -454,3 +500,4 @@
         transition: opacity 0.3s ease;
     }
 }
+
