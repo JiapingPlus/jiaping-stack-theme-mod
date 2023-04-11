@@ -37,7 +37,8 @@
 {{- end -}}    
 
 <script>
-    // Waline client configuration see: https://waline.js.org/en/reference/client.html
+    /// Waline client configuration see: https://waline.js.org/en/reference/client.html
     new Waline({{ $config | jsonify | safeJS }});
 </script>
 {{- end -}}
+

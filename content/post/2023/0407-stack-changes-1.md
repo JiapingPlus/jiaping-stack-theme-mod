@@ -10,7 +10,7 @@ tags:
 image: 
 hidden: false
 comments: true
-draft: false
+draft: true
 slug: stack-changes-1
 ---
 
