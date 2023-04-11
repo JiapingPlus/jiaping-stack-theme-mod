@@ -48,7 +48,7 @@ Github仓库地址：[Mantyke](https://github.com/Mantyke)/[stack-theme-mod](htt
 
 （注：实际使用请补全花括号
 
-```fallback
+```go
 {< quote >}}}
 三月，因久旱不雨，苏轼赴郿，祈雨于太白山之上清宫。数日后，虽有微雨，父老以为不足，于是，再陪宋太守亲往祭祷，回程路上，便见道中有云气自山中来，如群马奔突而至车座左右，苏轼一时好奇心起，开笼收云归家，作《攓云篇》。
 {< /quote >}}
@@ -60,7 +60,7 @@ Github仓库地址：[Mantyke](https://github.com/Mantyke)/[stack-theme-mod](htt
 
 友链头像放在`/assets/link-img`，友链数据放在`/data/links.json`
 
-```
+```json
 [
     {
         "title": "小球飞鱼",
@@ -85,7 +85,7 @@ Github仓库地址：[Mantyke](https://github.com/Mantyke)/[stack-theme-mod](htt
 
 站点名称及链接：
 
-```
+```html
 #位置：layout/partials/footer/footer.html
 
     <section class="copyright">
@@ -98,7 +98,9 @@ Github仓库地址：[Mantyke](https://github.com/Mantyke)/[stack-theme-mod](htt
     </section>
 ```
 
-```
+<br>
+
+```html
 #位置：layout/partials/footer/footer.html
 
 var s1 = '2022-02-13';//设置为建站时间
@@ -121,7 +123,7 @@ document.getElementById('days').innerHTML = number_of_days;
 
 位置：`/layouts/partials/sidebar/left.html`，注释或删去以下部分：
 
-```
+```html
         {{ with .Site.Params.sidebar.avatar }}
             {{ if (default true .enabled) }}
             <figure class="site-avatar">
@@ -152,7 +154,7 @@ document.getElementById('days').innerHTML = number_of_days;
 
 位置：`assets\scss\variables.scss`
 
-```
+```markdown
 --body-background: #f6f6f6;
 ```
 
@@ -160,7 +162,7 @@ document.getElementById('days').innerHTML = number_of_days;
 
 位置：`content\categories`，创建分类同名文件夹后，在文件夹内创建`_index.md`文件，写入frontmatter
 
-```
+```markdown
 title: "做猫贵在折腾" //分类名称
 description: "简介 Blablabla" //不需要可以删了
 image: "ffxiv_20210830_230509_817.png" //分类题图，不需要也可以删了

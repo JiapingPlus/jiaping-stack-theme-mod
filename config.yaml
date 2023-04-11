@@ -233,13 +233,13 @@ markup:
         ordered: true
         startLevel: 2
     highlight: 
-        anchorLineNos: false
         hl_Lines: ""
         noClasses: false
         codeFences: true
         guessSyntax: true
         lineNoStart: 1
         lineNos: true
-        lineNumbersInTable: false
+        lineNumbersInTable: true
+        # 这个false的话会导致copy键复制行号
+        # style: monokai
         tabWidth: 4
-        style: monokai

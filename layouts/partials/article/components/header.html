@@ -32,4 +32,15 @@
     {{ end }}
 
     {{ partialCached "article/components/details" . .RelPermalink }}
+
+    <!-- <link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/styles/default.min.css" rel="stylesheet">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script> -->
+
+    <!-- 三行代码，第一行的monokai.min.css是配色方案， 第二行引入是highlight.js的压缩版，第三行是使用highlight.js着色。 -->
+
+    <link rel="stylesheet" href="/css/atelier-sulphurpool-light.min.css"/>
+    <script src="/js/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    
 </header>

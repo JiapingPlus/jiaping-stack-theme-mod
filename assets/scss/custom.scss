@@ -133,10 +133,21 @@ blockquote.quote {
     }
 }
 
-//修改选中颜色
+//修改选中目标的颜色
+//参考https://blog.echosec.top/p/custom-hugo-theme-styles/#%E4%BF%AE%E6%94%B9%E9%80%89%E4%B8%AD%E7%9B%AE%E6%A0%87%E6%A0%B7%E5%BC%8F
 ::selection {
-    color: #fff;
-    background: #34495e;
+    background: #e0e3e6;
+    color: #34495e;
+}
+
+::-moz-selection {
+    background: #e0e3e6;
+    color: #34495e;
+}
+  
+  ::-webkit-selection {
+    background: #e0e3e6;
+    color: #34495e;
 }
 
 //修改界面自适应比例
