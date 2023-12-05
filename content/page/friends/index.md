@@ -26,9 +26,7 @@ menu:
 
 欢迎和我交换友链！
 
-希望你常常更新上线，并且喜欢分享日常生活内容和感兴趣的事情:）
-
-多多来聊天吧！
+希望你常常更新，并且喜欢分享日常生活内容和感兴趣的事情:）
 
 以下是我的友链信息：
 
@@ -55,15 +53,7 @@ link.json格式为：
 ]
 ``` -->
 
-<!-- > **名称**：次世嘉平
-> **简介**：人生好梦，尽逐春风。
-> **地址**：[https://potatoplus.icu/](https://potatoplus.icu/)  
-> **头像**：[https://cdn.jsdelivr.net/gh/5ammyZ/jiaping-blog-pictures@main/stack-pics/avatar.png](https://cdn.jsdelivr.net/gh/5ammyZ/jiaping-blog-pictures@main/stack-pics/avatar.png) -->
-<!-- 
-这两段一模一样为什么上一段不会换行呢！ -->
-
 > **名称**：次世嘉平  
-> **简介**：人生好梦，尽逐春风。  
+> **简介**：为免天下无所适从  
 > **地址**：[https://potatoplus.icu/](https://potatoplus.icu/)  
 > **头像**：[https://cdn.jsdelivr.net/gh/5ammyZ/jiaping-blog-pictures@main/stack-pics/avatar.png](https://cdn.jsdelivr.net/gh/5ammyZ/jiaping-blog-pictures@main/stack-pics/avatar.png)
-

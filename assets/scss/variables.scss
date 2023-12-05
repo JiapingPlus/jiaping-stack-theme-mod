@@ -15,7 +15,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --body-background: #f5f5fa;
 
-    --accent-color: #34495e;
+    --accent-color: #415d86;
+    //点开文章后的标题颜色
     --accent-color-darker: #2c3e50;
     --accent-color-text: #fff;
     --body-text-color: #bababa;
@@ -96,7 +97,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --article-font-size: 1.6rem;
 
     @include respond(md) {
-        --article-font-size: 1.65rem; //字号
+        --article-font-size: 1.6rem; //字号
     }
 
     --article-line-height: 1.6; //行距
