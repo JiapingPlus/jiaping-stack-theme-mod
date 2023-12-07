@@ -49,7 +49,7 @@ menu:
 
 ### 建站
 
-* **23/04/02**：建站完成，[模板来自塔塔的魔改stack](https://potatoplus.icu/) 
+* **23/04/02**：建站完成，[模板来自塔塔的魔改stack](https://mantyke.icu/posts/2022/stack-theme-mod/) 
 
 ### 装修
 
