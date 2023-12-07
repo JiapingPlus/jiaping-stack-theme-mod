@@ -133,6 +133,7 @@ blockquote.quote {
     }
 }
 
+
 //修改选中目标的颜色
 //参考https://blog.echosec.top/p/custom-hugo-theme-styles/#%E4%BF%AE%E6%94%B9%E9%80%89%E4%B8%AD%E7%9B%AE%E6%A0%87%E6%A0%B7%E5%BC%8F
 ::selection {
@@ -255,4 +256,13 @@ html{
     // --code-background-color: #f8f8f8;
     // --code-text-color: #e96900;
     
+  }
+
+// 文章内容图片圆角阴影
+.article-page .main-article .article-content {
+    img {
+      max-width: 96% !important;
+      height: auto !important;
+      border-radius: 8px;
+    }
   }
