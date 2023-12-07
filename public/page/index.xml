@@ -8,76 +8,112 @@
         <language>en-us</language>
         <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://potatoplus.icu/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://potatoplus.icu/stack-theme-mod/</link>
+        <link>https://potatoplus.icu/about-jiaping/</link>
         <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://potatoplus.icu/stack-theme-mod/</guid>
+        <guid>https://potatoplus.icu/about-jiaping/</guid>
         <description>&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
 &lt;p&gt;可以叫我&lt;strong&gt;嘉平&lt;/strong&gt;，当然叫你所知道的别的称呼也都可以。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;potatoplus&lt;/strong&gt;：土豆加，稍微把土倒立，它们可以组成一个嘉。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;点击左栏中的TAG，可以快速了解一个碎片化的我（探头）&lt;/p&gt;
-&lt;h2 id=&#34;建站与装修记录&#34;&gt;建站与装修记录&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;预警&lt;/strong&gt;：我是一个史同女！如果你雷我CP（下面图片上的那两位），那么你一定不会喜欢我的博文。请不要骂我，并轻轻地把我划走……&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;23/04/02：建站&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;23/04/04：安装评论区&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;23/04/06：添加标签墙&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;23/04/05：去除右侧CATEGORIES、ARCHIVES。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;感谢&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;小球飞鱼&lt;/a&gt;以及链接的其他博客主，这一整个博客都是站在巨人的肩膀上搭建完成的！&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;站点域名&lt;/strong&gt;：目前是“土豆加”，将这三个字适当倒立并叠加可以得到一个嘉字！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;博客头像&lt;/strong&gt;：摄于无锡，一个小小的、银白的月亮。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;博客简介&lt;/strong&gt;：真·三国无双5曹丕传，曹丕与司马懿的对话。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;center&gt;
+    &lt;figure&gt;
+        &lt;img src=&#34;https://potatoplus.icu/img/about.png&#34; alt=&#34;img&#34; style=&#34;width:70%;&#34;&gt;
+    &lt;/figure&gt;
+&lt;/center&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;关于博客内容&#34;&gt;关于博客内容&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;泄水置平地&lt;/strong&gt;：近况更新&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;东西南北流&lt;/strong&gt;：游玩记录&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;win+r唤醒曹孟德&lt;/strong&gt;：编程，科研和一点装修（大概会有吧！）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;h2 id=&#34;建站装修日志&#34;&gt;建站装修日志&lt;/h2&gt;
 &lt;h3 id=&#34;建站&#34;&gt;建站&lt;/h3&gt;
-&lt;p&gt;使用的建站教程：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2021/hugo-build-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo | 一起动手搭建个人博客吧&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2022/stack-theme-mod/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo | Hugo-stack-theme 主题魔改版&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://randomwaves.space/posts/build-a-hugo-site-from-zero/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;个站 | 从零开始的Hugo博客建站&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;23/04/02&lt;/strong&gt;：建站完成，&lt;a class=&#34;link&#34; href=&#34;https://potatoplus.icu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;模板来自塔塔的魔改stack&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;装修&#34;&gt;装修&lt;/h3&gt;
-&lt;p&gt;安装评论区：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2021/comment/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo | 为 Blog 增加评论区&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;添加标签墙：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2022/a-flower-upon-your-return/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Blog | 主题重新施工，和书影游展示墙&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;感谢以下所有的博主，写作的博文都清晰易懂，让我连滚带爬地把这个页面跑起来了！&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mengru.space/?weeks/2022/24&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Mengru的空间-新主题&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;23/04/04&lt;/strong&gt;：高亮主页Home标签/修改滑动条样式/隐去文章界面右侧部件栏/添加右侧目录/更改页面自适应设置，动工教程来自&lt;a class=&#34;link&#34; href=&#34;https://xrg.fj.cn/p/hugo-stack%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E5%B0%8F%E8%AE%B0/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;XR_G的博文&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/04/05&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2021/comment/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;安装Waline评论区&lt;/a&gt;并改变样式、添加表情包/配置网站icon和左栏菜单icon(assets/icons中添加&lt;a class=&#34;link&#34; href=&#34;https://tablericons.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;icon的svg文件&lt;/a&gt;→page中写入icon:名称)/修改菜单按钮距离/添加站点头像/修改分类标签颜色/安装域名/添加&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2022/a-flower-upon-your-return/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Interests标签云界面&lt;/a&gt;，除了关联的链接外，其他大部分动工的操作教程来自&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2021/f9f0ec87/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;塔塔的博文&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/04/06&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2021/a08f1963/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;RSS图标链接替换推特icon、修改网站背景颜色&lt;/a&gt;/&lt;a class=&#34;link&#34; href=&#34;https://gregueria.icu/posts/decoration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Archives页添加tag云归档&lt;/a&gt;/&lt;a class=&#34;link&#34; href=&#34;https://irithys.com/p/%e7%bb%99hugo%e5%8a%a0%e4%b8%80%e7%82%b9%e5%a5%bd%e7%8e%a9%e7%9a%84%e5%8a%9f%e8%83%bd/#%E8%81%94%E7%B3%BB%E6%B0%94%E6%B3%A1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;添加Channel.io小气泡&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/04/07&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2021/umami-build/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;安装Umami&lt;/a&gt;/&lt;a class=&#34;link&#34; href=&#34;https://gregueria.icu/posts/decoration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Waline设置邮件通知提醒&lt;/a&gt;(目前还在失败状态!)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/04/11&lt;/strong&gt;：改动字数icon(擦汗，我不大记得自己在哪里动的了，好像是在article.scss里…)/修改代码块与代码高亮风格与更改鼠标选中样式与行内代码块样式：&lt;a class=&#34;link&#34; href=&#34;https://blog.echosec.top/p/custom-hugo-theme-styles/#%E4%BF%AE%E6%94%B9%E9%80%89%E4%B8%AD%E7%9B%AE%E6%A0%87%E6%A0%B7%E5%BC%8F&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;参考1&lt;/a&gt;、&lt;a class=&#34;link&#34; href=&#34;https://cloud.tencent.com/developer/article/1855918&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;参考2&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/04/21&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/weixin_45731256/article/details/116309836?spm=1001.2101.3001.6661.1&amp;amp;utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-116309836-blog-119355964.235%5Ev27%5Epc_relevant_3mothn_strategy_recovery&amp;amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-116309836-blog-119355964.235%5Ev27%5Epc_relevant_3mothn_strategy_recovery&amp;amp;utm_relevant_index=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;基于Github+jsDelivr+PicGo搭建图床&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/12/07&lt;/strong&gt;: 添加&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2021/cf2cf0fb/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;图片轮播&lt;/a&gt;样式/设置&lt;a class=&#34;link&#34; href=&#34;https://blog.linsnow.cn/p/modify-hugo/#%E4%B8%BB%E9%A2%98%E6%95%B4%E4%BD%93%E7%BB%86%E8%8A%82%E8%B0%83%E6%95%B4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;文章内容图片圆角&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/12/…&lt;/strong&gt;：预计添加一些短代码，参考教程是&lt;a class=&#34;link&#34; href=&#34;https://www.sleepymoon.cyou/2023/hugo-shortcodes/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;眠于水月间的博文&lt;/a&gt;，非常详细，感谢！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/12/…&lt;/strong&gt;：预计添加图片并排排列，参考教程是&lt;a class=&#34;link&#34; href=&#34;https://naturaleki.one/post/loadinghugo%E8%A3%85%E4%BF%AE%E6%97%A5%E5%BF%9704/#%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E7%89%87%E5%B9%B6%E5%88%97%E6%8E%92%E7%89%88&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;天堂错误文件的博文&lt;/a&gt;,感谢！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/12/…&lt;/strong&gt;：预计添加自定义表情包，参考教程同样是&lt;a class=&#34;link&#34; href=&#34;https://naturaleki.one/post/loadinghugo%E8%A3%85%E4%BF%AE%E6%97%A5%E5%BF%9702/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;天堂错误文件的另一篇装修博文&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;23/12/…&lt;/strong&gt;：想把字体修改为&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/weekly/2023/nov.10-nov.22/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;塔塔提到的京华老宋体&lt;/a&gt;，参考教程找的是&lt;a class=&#34;link&#34; href=&#34;https://www.sleepymoon.cyou/2023/hugo-first-build-furnish/#%E4%BF%AE%E6%94%B9%E5%85%A8%E7%AB%99%E5%AD%97%E4%BD%93&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;眠于水月间的建站博文&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;感谢&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/posts/2021/hugo-build-blog/?continueFlag=40dec74b83a5ab909bce5cd15471c5eb%20%20&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;塔塔的建站教程&lt;/a&gt;，没有这篇文章的话我是不会建好这个网站的！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
 &lt;h2 id=&#34;如何联系我&#34;&gt;如何联系我&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;：jiaping2020@126.com&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;邮箱&lt;/strong&gt;：jiaping2020@126.com&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;气泡&lt;/strong&gt;：右侧气泡点开可以聊天/留言，但其实留下信息后仍然需要填写邮箱地址，才能收到我的回复提醒(……)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;br/&gt;
 </description>
         </item>
         <item>
@@ -103,31 +139,37 @@
   }
 
 &lt;/style&gt;
-&lt;p&gt;这个标题默认隐藏了标题与页尾，推荐用以下格式来交换友情链接。&lt;/p&gt;
-&lt;p&gt;友链头像放在&lt;code&gt;/assets/link-img&lt;/code&gt;，友链数据放在&lt;code&gt;/data/links.json&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;link.json格式为：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[
+&lt;p&gt;欢迎和我交换友链！希望我们能有更多联系:)&lt;/p&gt;
+&lt;p&gt;以下是我的友链信息：&lt;/p&gt;
+ &lt;!-- 这个标题默认隐藏了标题与页尾，推荐用以下格式来交换友情链接。
+
+友链头像放在`/assets/link-img`，友链数据放在`/data/links.json`
+
+link.json格式为：
+
+```
+[
     {
-        &amp;quot;title&amp;quot;: &amp;quot;小球飞鱼&amp;quot;,
-        &amp;quot;website&amp;quot;: &amp;quot;https://mantyke.icu/&amp;quot;,
-        &amp;quot;image&amp;quot;: &amp;quot;mantyke.png&amp;quot;,
-     &amp;quot;description&amp;quot;: &amp;quot;我们会一起遇见鲸鱼吗？&amp;quot;
+        &#34;title&#34;: &#34;小球飞鱼&#34;,
+        &#34;website&#34;: &#34;https://mantyke.icu/&#34;,
+        &#34;image&#34;: &#34;mantyke.png&#34;,
+     &#34;description&#34;: &#34;我们会一起遇见鲸鱼吗？&#34;
     },
 	{
-        &amp;quot;title&amp;quot;: &amp;quot;友情链接2&amp;quot;,
-        &amp;quot;website&amp;quot;: &amp;quot;&amp;quot;,
-        &amp;quot;image&amp;quot;: &amp;quot;&amp;quot;,
-     &amp;quot;description&amp;quot;: &amp;quot;&amp;quot;
+        &#34;title&#34;: &#34;友情链接2&#34;,
+        &#34;website&#34;: &#34;&#34;,
+        &#34;image&#34;: &#34;&#34;,
+     &#34;description&#34;: &#34;&#34;
     }
 ]
-&lt;/code&gt;&lt;/pre&gt;
+``` --&gt;
 &lt;blockquote&gt;
-&lt;p&gt;名称：小球飞鱼&lt;br&gt;
-简介：我们会一起遇见鲸鱼吗？&lt;br&gt;
-地址：&lt;a class=&#34;link&#34; href=&#34;https://mantyke.icu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://mantyke.icu/&lt;/a&gt;&lt;br&gt;
-头像：&lt;a class=&#34;link&#34; href=&#34;https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;名称&lt;/strong&gt;：次世嘉平&lt;br&gt;
+&lt;strong&gt;简介&lt;/strong&gt;：为免天下无所适从&lt;br&gt;
+&lt;strong&gt;地址&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://potatoplus.icu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://potatoplus.icu/&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;头像&lt;/strong&gt;：&lt;a class=&#34;link&#34; href=&#34;https://cdn.jsdelivr.net/gh/5ammyZ/jiaping-blog-pictures@main/stack-pics/avatar.png&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://cdn.jsdelivr.net/gh/5ammyZ/jiaping-blog-pictures@main/stack-pics/avatar.png&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
         </item>

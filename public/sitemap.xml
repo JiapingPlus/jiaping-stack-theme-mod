@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://potatoplus.icu/stack-theme-mod/</loc>
+    <loc>https://potatoplus.icu/categories/</loc>
+    <lastmod>2023-12-07T08:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://potatoplus.icu/post/</loc>
+    <lastmod>2023-12-07T08:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://potatoplus.icu/tags/</loc>
+    <lastmod>2023-12-07T08:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://potatoplus.icu/categories/%E4%B8%9C%E8%A5%BF%E5%8D%97%E5%8C%97%E6%B5%81/</loc>
+    <lastmod>2023-12-07T08:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://potatoplus.icu/</loc>
+    <lastmod>2023-12-07T08:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://potatoplus.icu/tags/%E6%B4%9B%E9%98%B3/</loc>
+    <lastmod>2023-12-07T08:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://potatoplus.icu/2023/luoyang-travels-2023/</loc>
+    <lastmod>2023-12-07T08:11:38+08:00</lastmod>
+  </url><url>
+    <loc>https://potatoplus.icu/about-jiaping/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://potatoplus.icu/page/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://potatoplus.icu/</loc>
-    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://potatoplus.icu/categories/</loc>
-    <lastmod>2022-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://potatoplus.icu/tags/hugo/</loc>
-    <lastmod>2022-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://potatoplus.icu/2022/stack-theme-mod/</loc>
-    <lastmod>2022-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://potatoplus.icu/post/</loc>
-    <lastmod>2022-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://potatoplus.icu/tags/</loc>
-    <lastmod>2022-02-13T03:02:52+08:00</lastmod>
-  </url><url>
-    <loc>https://potatoplus.icu/categories/%E7%94%98%E6%99%AE%E5%9F%BA%E6%9C%AC%E5%8F%98%E5%BD%A2%E5%AE%9A%E5%BE%8B/</loc>
-    <lastmod>2022-02-13T03:02:52+08:00</lastmod>
   </url><url>
     <loc>https://potatoplus.icu/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -39,6 +39,8 @@
   </url><url>
     <loc>https://potatoplus.icu/search/</loc>
   </url><url>
-    <loc>https://potatoplus.icu/categories/test/</loc>
+    <loc>https://potatoplus.icu/categories/win&#43;r%E5%94%A4%E9%86%92%E6%9B%B9%E5%AD%9F%E5%BE%B7/</loc>
+  </url><url>
+    <loc>https://potatoplus.icu/categories/%E6%B3%84%E6%B0%B4%E7%BD%AE%E5%B9%B3%E5%9C%B0/</loc>
   </url>
 </urlset>
