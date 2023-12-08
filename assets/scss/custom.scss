@@ -187,14 +187,16 @@ blockquote.quote {
     }
 }
 
-.left-sidebar {
-    --sidebar-element-separation: 20px;
-    margin-right: -2%;
-    //中间栏与左侧的宽度，px调整。
-    padding: var(--main-top-padding) 0px;
-    // max-height: 110vh;
-    padding-right: 35px;
-}
+// 这里使用left-sidebar的话手机端会移动！
+
+// .left-sidebar {
+//     --sidebar-element-separation: 20px;
+//     margin-right: 0px;
+//     //中间栏与左侧的宽度，px调整。
+//     padding: var(--main-top-padding) 0px;
+//     // max-height: 110vh;
+//     padding-right: 35px;
+// }
 
 // .right-sidebar {
 //     margin-left: 30px;
