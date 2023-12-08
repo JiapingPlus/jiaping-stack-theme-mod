@@ -66,7 +66,6 @@ menu:
 * **23/12/08**：修改页面布局，增加右侧栏宽度/调整轮播图片最大宽度/[添加gallery短代码和网易云音乐短代码](https://www.sleepymoon.cyou/2023/hugo-shortcodes/)/修改文章内容左右边距
 * **23/12/09**：文章正文字体修改为[塔塔提到的京华老宋体](https://mantyke.icu/weekly/2023/nov.10-nov.22/)/其他字体修改为汇文明朝体/相应修改首页部件的字号字重
 * **23/12/…**：预计给Waline添加自定义表情包，参考教程是[天堂错误文件的博文](https://naturaleki.one/post/loadinghugo%E8%A3%85%E4%BF%AE%E6%97%A5%E5%BF%9702/)
-* **23/12/…**：想把字体修改为[塔塔提到的京华老宋体](https://mantyke.icu/weekly/2023/nov.10-nov.22/)，参考教程找的是[眠于水月间的建站博文](https://www.sleepymoon.cyou/2023/hugo-first-build-furnish/#%E4%BF%AE%E6%94%B9%E5%85%A8%E7%AB%99%E5%AD%97%E4%BD%93)
 
 <br/>
 
