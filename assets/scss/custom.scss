@@ -187,19 +187,28 @@ blockquote.quote {
     }
 }
 
-// .left-sidebar {
-//     --sidebar-element-separation: 20px;
-//     margin-right: -2%;
-//     //中间栏与左侧的宽度，px调整。
-//     padding: var(--main-top-padding) 0px;
-//     max-height: 110vh;
-//     padding-right: 35px;
-// }
+.left-sidebar {
+    --sidebar-element-separation: 20px;
+    margin-right: -2%;
+    //中间栏与左侧的宽度，px调整。
+    padding: var(--main-top-padding) 0px;
+    // max-height: 110vh;
+    padding-right: 35px;
+}
 
 // .right-sidebar {
-//     margin-left: 18px;
+//     margin-left: 30px;
+//     //中间栏与右侧的宽度，px调整。
+//     // padding: var(--main-top-padding) 20px;
 // }
 //左右两边想要更窄一点，没找到参数在哪里，回头再找找。
+
+.right-sidebar {
+    margin-left: 0px;
+    width: 255px; /* 通过修改width属性调整宽度，可以根据需要进行调整 */
+    /* 其他样式属性 */
+}
+
 
 //追加一个美化过的进度条
 html{
@@ -226,7 +235,7 @@ html{
 //为图片轮播部分加入的css
 //from 小球飞鱼
 .swiper-container {
-    max-width: 700px;
+    max-width: 630px;
     // 限制了最大宽度（820 是试出来的值），原因是如果按照文章原本的写法，会出现一个很奇妙的情况：刚载入时一切正常，刷新后图片突然放大，溢出显示区域，但只要稍微拉一下浏览器窗口大小就又恢复正常。
     // 图片最大宽度到时插图片时再调
     margin: 2em auto;

@@ -69,6 +69,8 @@ menu:
 
 * **23/12/07**: 添加[图片轮播](https://mantyke.icu/posts/2021/cf2cf0fb/)样式/设置[文章内容图片圆角](https://blog.linsnow.cn/p/modify-hugo/#%E4%B8%BB%E9%A2%98%E6%95%B4%E4%BD%93%E7%BB%86%E8%8A%82%E8%B0%83%E6%95%B4)
 
+* **23/12/08**：修改页面布局，增加右侧栏宽度/调整轮播图片最大宽度
+
 * **23/12/…**：预计添加一些短代码，参考教程是[眠于水月间的博文](https://www.sleepymoon.cyou/2023/hugo-shortcodes/)，非常详细，感谢！
 
 * **23/12/…**：预计添加图片并排排列，参考教程是[天堂错误文件的博文](https://naturaleki.one/post/loadinghugo%E8%A3%85%E4%BF%AE%E6%97%A5%E5%BF%9704/#%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E7%89%87%E5%B9%B6%E5%88%97%E6%8E%92%E7%89%88),感谢！
