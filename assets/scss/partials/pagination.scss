@@ -12,7 +12,7 @@
         display: inline-flex;
 
         &.current {
-            font-weight: bold;
+            font-weight: normal;
             background-color: var(--card-background-selected);
             color: var(--card-text-color-main);
         }

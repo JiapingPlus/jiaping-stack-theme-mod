@@ -43,7 +43,7 @@
         color: var(--card-text-color-tertiary);
         font-size: 1.4rem;
         margin: 0;
-        font-weight: bold;
+        font-weight: normal;
         text-transform: uppercase;
     }
 }
@@ -65,7 +65,9 @@
             .article-title {
                 margin: 0;
                 font-size: 1.5rem; //改爲1.5rem，調整字體尺寸
+            // 改动的是Archives页面的字体
             }
+            
 
             .article-details {
                 padding: 20px;
@@ -95,7 +97,8 @@
 
             .article-title {
                 margin: 0;
-                font-size: 1.4rem;
+                font-size: 1.5rem; // 改Archives页面里tag的字体大小
+                font-weight: normal; // 加粗改为默认
             }
 
             .article-details {

@@ -63,8 +63,8 @@ menu:
 * **23/04/11**：改动字数icon(擦汗，我不大记得自己在哪里动的了，好像是在article.scss里…)/修改代码块与代码高亮风格与更改鼠标选中样式与行内代码块样式：[参考1](https://blog.echosec.top/p/custom-hugo-theme-styles/#%E4%BF%AE%E6%94%B9%E9%80%89%E4%B8%AD%E7%9B%AE%E6%A0%87%E6%A0%B7%E5%BC%8F)、[参考2](https://cloud.tencent.com/developer/article/1855918)
 * **23/04/21**：[基于Github+jsDelivr+PicGo搭建图床](https://blog.csdn.net/weixin_45731256/article/details/116309836?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-116309836-blog-119355964.235%5Ev27%5Epc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-116309836-blog-119355964.235%5Ev27%5Epc_relevant_3mothn_strategy_recovery&utm_relevant_index=1)
 * **23/12/07**: 添加[图片轮播](https://mantyke.icu/posts/2021/cf2cf0fb/)样式/设置[文章内容图片圆角](https://blog.linsnow.cn/p/modify-hugo/#%E4%B8%BB%E9%A2%98%E6%95%B4%E4%BD%93%E7%BB%86%E8%8A%82%E8%B0%83%E6%95%B4)
-* **23/12/08**：修改页面布局，增加右侧栏宽度/调整轮播图片最大宽度/[添加gallery短代码](https://www.sleepymoon.cyou/2023/hugo-shortcodes/)
-* **23/12/…**：预计添加一些短代码，参考教程是[眠于水月间的博文](https://www.sleepymoon.cyou/2023/hugo-shortcodes/)，非常详细，感谢！
+* **23/12/08**：修改页面布局，增加右侧栏宽度/调整轮播图片最大宽度/[添加gallery短代码和网易云音乐短代码](https://www.sleepymoon.cyou/2023/hugo-shortcodes/)/修改文章内容左右边距
+* **23/12/09**：文章正文字体修改为[塔塔提到的京华老宋体](https://mantyke.icu/weekly/2023/nov.10-nov.22/)/其他字体修改为汇文明朝体/相应修改首页部件的字号字重
 * **23/12/…**：预计给Waline添加自定义表情包，参考教程是[天堂错误文件的博文](https://naturaleki.one/post/loadinghugo%E8%A3%85%E4%BF%AE%E6%97%A5%E5%BF%9702/)
 * **23/12/…**：想把字体修改为[塔塔提到的京华老宋体](https://mantyke.icu/weekly/2023/nov.10-nov.22/)，参考教程找的是[眠于水月间的建站博文](https://www.sleepymoon.cyou/2023/hugo-first-build-furnish/#%E4%BF%AE%E6%94%B9%E5%85%A8%E7%AB%99%E5%AD%97%E4%BD%93)
 

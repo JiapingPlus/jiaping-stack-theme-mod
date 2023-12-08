@@ -15,14 +15,17 @@ footer.site-footer {
 
     .copyright {
         color: var(--accent-color);
-        font-weight: bold;
+        font-weight: normal;
+        font-size: 1.5rem;
+        // 改“共书写了...字”的那一块的加粗和字体大小
         margin-bottom: 5px;
     }
 
     .powerby {
         color: var(--body-text-color);
-        font-weight: normal;
-        font-size: 1.2rem;
+        font-weight: 100;
+        // 让字重比normal更轻了一点（大概
+        font-size: 1.5rem;
 
         a {
             color: var(--body-text-color);

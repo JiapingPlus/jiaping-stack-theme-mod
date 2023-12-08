@@ -99,7 +99,7 @@
 	.site-name {
         color: var(--accent-color);
         text-align:center; //站点名称居中
-        font-size: 1.8rem;
+        font-size: 2rem;//博客名称字号变大
 
         @include respond(2xl) {
             font-size: 2rem;

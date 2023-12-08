@@ -129,7 +129,7 @@
     flex-direction: column;
     overflow-y: auto;
     flex-grow: 1;
-    font-size: 1.4rem;
+    font-size: 1.8rem; // 更改左栏的字号大小
 
     background-color: var(--card-background);
     padding: 15px ;
@@ -198,7 +198,7 @@
         &.current {
             a {
                 color: var(--accent-color);
-                font-weight: bold;
+                font-weight: normal; // 把加粗bold换成normal
             }
         }
     }
