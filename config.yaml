@@ -181,6 +181,9 @@ params:
             enabled: true
         content:
             enabled: true
+    
+    busuanzi:
+        enable: true
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html

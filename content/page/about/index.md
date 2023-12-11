@@ -77,6 +77,8 @@ menu:
 
 * **23/12/09**：文章正文字体修改为[塔塔提到的京华老宋体](https://mantyke.icu/weekly/2023/nov.10-nov.22/)/其他字体修改为汇文明朝体/相应修改首页部件的字号字重
 
+* **23/12/11**：首页[添加不蒜子以统计总访问量](https://irithys.com/p/%E7%BB%99hugo%E5%8A%A0%E4%B8%80%E7%82%B9%E5%A5%BD%E7%8E%A9%E7%9A%84%E5%8A%9F%E8%83%BD/#%E8%AE%BF%E9%97%AE%E7%BB%9F%E8%AE%A1)
+
 * **23/12/…**：预计给Waline添加自定义表情包，参考教程是[天堂错误文件的博文](https://naturaleki.one/post/loadinghugo%E8%A3%85%E4%BF%AE%E6%97%A5%E5%BF%9702/)
 
 <br/>

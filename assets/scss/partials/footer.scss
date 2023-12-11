@@ -26,6 +26,8 @@ footer.site-footer {
         font-weight: 100;
         // 让字重比normal更轻了一点（大概
         font-size: 1.5rem;
+        font-style: normal;
+        //取消powerby部分的斜体，主要针对不蒜子
 
         a {
             color: var(--body-text-color);
