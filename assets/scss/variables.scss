@@ -14,12 +14,17 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     }
 
     --body-background: #f5f5fa;
+    // 首页背景颜色
 
-    --accent-color: #415d86;
-    //点开文章后的标题颜色
+    --accent-color: #2c4872;
+    // 首页的标题啊home啊什么的颜色
+
+ 
     --accent-color-darker: #2c3e50;
     --accent-color-text: #fff;
-    --body-text-color: #bababa;
+
+    --body-text-color: #9a9999;
+    // 首页的描述啊home啊斜杠啊什么的颜色
 
     --tag-border-radius: 4px;
 
@@ -55,6 +60,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 */
 :root {
     --card-background: #fff;
+    //首页卡片颜色
+
     --card-background-selected: #eaeaea;
 
     --card-text-color-main: #000;
