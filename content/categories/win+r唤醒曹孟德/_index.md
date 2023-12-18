@@ -1,5 +1,5 @@
 ---
-title: "唤醒曹孟德请用win+r"
+title: "win+r唤醒曹孟德"
 # 指定titie后，会一次性修改全部的分类名称，不需要再逐个修改。
 description: "曹孟德使您可以通过在DOS下输入命令来执行某些操作，谢谢曹孟德> o"
 slug: "technology"

@@ -4,12 +4,12 @@ description: 很喜欢这个主题，添添改改做成了放我CP相关文字�
 date: 2023-12-17T14:26:34+08:00
 image: 
 categories: 
-  - 唤醒曹孟德请用win+r
+  - win+r唤醒曹孟德
 tags:
   - HUGO
-hidden: true
+hidden: false
 comments: true
-draft: true
+draft: false
 slug: TeXify3-build-psmszd
 ---
 
