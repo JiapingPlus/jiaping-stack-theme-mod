@@ -83,7 +83,7 @@
         flex-wrap: wrap; //实现Archive中的Tag卡片自动换行
 
         article {
-            // background: var(--card-background); // 注释掉会变透明,不注释掉会变白
+            background: var(--card-background); // 注释掉会变透明,不注释掉会变白
             border-radius: 10px;//也是从widgets.scss抄过来的,变圆角
             transition: box-shadow 0.3s ease;
 

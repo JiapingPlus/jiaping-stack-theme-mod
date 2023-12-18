@@ -100,6 +100,8 @@
         color: var(--accent-color);
         text-align:center; //站点名称居中
         font-size: 2rem;//博客名称字号变大
+        // font-weight: normal;
+
 
         @include respond(2xl) {
             font-size: 2rem;
@@ -110,7 +112,7 @@
         color: var(--body-text-color);
         font-weight: normal;
         text-align:center; //站点描述居中
-        font-size: 1.6rem;
+        font-size: 1.65rem;
 
         @include respond(2xl) {
             font-size: 1.7rem;

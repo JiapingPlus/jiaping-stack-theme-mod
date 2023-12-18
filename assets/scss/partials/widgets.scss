@@ -46,19 +46,24 @@
     .archives-year {
         &:not(:last-of-type) {
             border-bottom: 1.5px solid var(--card-separator-color);
+
         }
 
         a {
             font-size: 1.6rem;
             // 右侧栏archives的2023/2024大小
-            font-weight: 100;
+            font-weight: normal;
+            // 改掉2023等的加粗
             padding: 18px 25px;
             display: flex;
+            letter-spacing: 1px; 
+            /* 设置合适的值，以调整左右间距 */
+
 
             span.year {
                 flex: 1;
                 color: var(--card-text-color-main);
-                font-weight: bold;
+                font-weight: normal;
             }
 
             span.count {
