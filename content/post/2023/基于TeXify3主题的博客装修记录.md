@@ -7,10 +7,11 @@ categories:
   - win+r唤醒曹孟德
 tags:
   - HUGO
-hidden: false
+hidden: true
 comments: true
-draft: false
+draft: true
 slug: TeXify3-build-psmszd
 ---
 
 难道我要写一点东西，这个页面才可以显示出来？
+搭得我特别特别特别想哭……不应该报错啊它凭什么报错！
