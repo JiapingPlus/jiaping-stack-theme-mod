@@ -52,6 +52,7 @@
     margin-bottom: var(--section-separation);
     overflow-x: auto;
 
+    //CATEGORIES的部分
     .article-list--tile {
         display: flex;
         padding-bottom: 10px;
@@ -65,7 +66,7 @@
             .article-title {
                 margin: 0;
                 font-size: 1.5rem; //改爲1.5rem，調整字體尺寸
-            // 改动的是Archives页面的字体
+            // 改动的是Archives页面中CATEGORIES的字体
             }
             
 
@@ -77,14 +78,17 @@
         }
     }
 
+    //TAGS的部分
     .article-list--tagtile {
         display: flex;
         padding-bottom: 10px;
         flex-wrap: wrap; //实现Archive中的Tag卡片自动换行
 
         article {
-            background: var(--card-background); // 注释掉会变透明,不注释掉会变白
-            border-radius: 10px;//也是从widgets.scss抄过来的,变圆角
+            background: var(--card-background); 
+            // 注释掉会变透明,不注释掉会变白
+            border-radius: 10px;
+            //也是从widgets.scss抄过来的,变圆角
             transition: box-shadow 0.3s ease;
 
             width: auto; //改爲200px

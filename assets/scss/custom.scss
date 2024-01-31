@@ -208,8 +208,8 @@ blockquote.quote {
 
 .right-sidebar {
     margin-left: 0px;
-    width: 255px; /* 通过修改width属性调整宽度，可以根据需要进行调整 */
-    /* 其他样式属性 */
+    width: 255px; 
+    /* 通过修改width属性调整右侧栏目录的宽度，可以根据需要进行调整 */
 }
 
 
@@ -270,11 +270,15 @@ html{
     
   }
 
-// 文章内容图片圆角阴影
-.article-page .main-article .article-content {
-    margin-left: 15px;
-    margin-right: 15px;
 
+// 页面内文章文字距离边框的左右间距
+.article-page .main-article .article-content {
+    --card-padding: 40px;
+    //控制内边距（不知道怎么形容，就是标题的标志仍然靠边但是文字与标题符号之间有空隙。很满意！
+    margin-left: 0px;
+    margin-right: 0px;
+
+    // 文章内容图片圆角阴影
     img {
       max-width: 96% !important;
       height: auto !important;

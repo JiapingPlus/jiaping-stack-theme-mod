@@ -55,6 +55,14 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --article-font-family: "KingHwa_OldSong";
 }
 
+
+// // 试试改一下文章内容左右边距
+// .article-content {
+//     margin: var(--card-padding) 20px !important;
+//     color: var(--card-text-color-main);
+// }
+// ↑不行，因为小标题还是会和页面分离
+
 /*
 *   Card style
 */
@@ -81,11 +89,14 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --card-padding: 30px;
     }
 
+    //归档部分
     --small-card-padding: 25px 20px;
 
     @include respond(md) {
         --small-card-padding: 25px;
+        //指归档栏的部分
     }
+
 
     &[data-scheme="dark"] {
         --card-background: #424242;

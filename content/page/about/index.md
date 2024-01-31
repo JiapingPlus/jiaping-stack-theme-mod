@@ -55,7 +55,7 @@ menu:
 
 ### 装修
 
-* 感谢以下所有的博主，写作的博文都清晰易懂，让我连滚带爬地把这个页面跑起来了！
+* 感谢以下所有博主，写作的博文都清晰易懂，让我连滚带爬地把这个页面跑起来了，谢谢，谢谢！
 
   <br/>
 
@@ -73,13 +73,13 @@ menu:
 
 * **23/12/07**: 添加[图片轮播](https://mantyke.icu/posts/2021/cf2cf0fb/)样式/设置[文章内容图片圆角](https://blog.linsnow.cn/p/modify-hugo/#%E4%B8%BB%E9%A2%98%E6%95%B4%E4%BD%93%E7%BB%86%E8%8A%82%E8%B0%83%E6%95%B4)
 
-* **23/12/08**：修改页面布局，增加右侧栏宽度/调整轮播图片最大宽度/[添加gallery短代码和网易云音乐短代码](https://www.sleepymoon.cyou/2023/hugo-shortcodes/)/修改文章内容左右边距
+* **23/12/08**：修改页面布局，增加右侧栏宽度/调整轮播图片最大宽度/[添加gallery短代码和网易云音乐短代码](https://www.sleepymoon.cyou/2023/hugo-shortcodes/)/修改文章内容左右边距(于24/01/31舍弃本次修改)
 
 * **23/12/09**：文章正文字体修改为[塔塔提到的京华老宋体](https://mantyke.icu/weekly/2023/nov.10-nov.22/)/其他字体修改为汇文明朝体/相应修改首页部件的字号字重
 
 * **23/12/11**：首页[添加不蒜子以统计总访问量](https://irithys.com/p/%E7%BB%99hugo%E5%8A%A0%E4%B8%80%E7%82%B9%E5%A5%BD%E7%8E%A9%E7%9A%84%E5%8A%9F%E8%83%BD/#%E8%AE%BF%E9%97%AE%E7%BB%9F%E8%AE%A1)
 
-* **23/12/…**：预计给Waline添加自定义表情包，参考教程是[天堂错误文件的博文](https://naturaleki.one/post/loadinghugo%E8%A3%85%E4%BF%AE%E6%97%A5%E5%BF%9702/)
+* **24/01/31**：修改文章内容的左右边距/根据鹤辞博客[眠于水月间](https://www.sleepymoon.cyou/2023/1stanniversary/)中“归档界面文章按年份折叠的代码调整了归档页面，非常漂亮实用的改动，谢谢！
 
 <br/>
 

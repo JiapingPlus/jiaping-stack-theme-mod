@@ -32,19 +32,80 @@
 
     {{ range $filtered.GroupByDate "2006" }}
     {{ $id := lower (replace .Key " " "-") }}
-    <div class="archives-group" id="{{ $id }}">
-        {{ $url := $.RelPermalink }}
-        {{ if $.Site.Params.TrimTrailingSlash }}
-            {{ $url = $url | replaceRE "/$" "" }}
-        {{ end }}
-        <h2 class="archives-date section-title"><a href="{{ $url }}#{{ $id }}">{{ .Key }}</a></h2>
-        <div class="article-list--compact">
-            {{ range .Pages }}
+    {{ $groupPages := .Pages }}
+    {{ if $groupPages }}
+        <div class="archives-group" id="{{ $id }}">
+        <h2 class="archives-date section-title" style="font-size: 1.9rem;">
+            <!-- 这里直接使用内联样式，在标签中直接添加style属性，指定font-size属性来设置字号。 -->
+            <a href="{{ $.RelPermalink }}#{{ $id }}">{{ .Key }}</a>
+            <button class="collapsible" onclick="toggleArchive('{{ $id }}')">&#9656;</button>
+        </h2>
+        <div class="article-list--compact" id="archive-{{ $id }}">
+            {{ range $groupPages }}
                 {{ partial "article-list/compact" . }}
             {{ end }}
         </div>
-    </div>
+        </div>
+    {{ end }}
     {{ end }}
 
+
+    <style>
+    .archives-group {
+        margin-bottom: 20px;
+    }
+
+    .archives-date {
+        display: flex;
+        align-items: center;
+    }
+
+    .collapsible {
+        background-color: var(--card-background);
+        color: var(--card-text-color-main);
+        font-weight: bold;
+        font-size: 15px;
+        padding: 12px 15px;
+        border: 1px solid transparent;
+        border-radius: 10px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        outline: none;
+        cursor: pointer;
+        margin-left: 10px; /* 调整按钮到年份的右侧 */
+    }
+
+    .collapsible::before {
+        content: '点我展开';
+        color: var(--card-text-color-main);
+        font-weight: normal;
+        /* 将“点我展开”的bold加粗改为normal */
+    }
+
+    .collapsible.open::before {
+        content: '▼';
+    }
+
+    .collapsible:hover {
+        background-color: var(--card-background);
+    }
+    </style>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var archiveLists = document.querySelectorAll('.article-list--compact');
+        archiveLists.forEach(function (archiveList) {
+        archiveList.style.display = 'none';
+        });
+    });
+
+    function toggleArchive(archiveId) {
+        var archiveList = document.getElementById('archive-' + archiveId);
+        archiveList.style.display = (archiveList.style.display === 'none' || archiveList.style.display === '') ? 'block' : 'none';
+
+        var button = document.querySelector('.archives-group#' + archiveId + ' .collapsible');
+        button.classList.toggle('open', archiveList.style.display === 'block');
+    }
+    </script>
+    
     {{ partialCached "footer/footer" . }}
 {{ end }}
