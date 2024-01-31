@@ -53,7 +53,7 @@ params:
         #flase会导致目录丢失
         readingTime: true
         license:
-            enabled: false
+            enabled: true
             #改动，原来是true，true的话会显示default的内容
             default: Licensed under CC BY-NC-SA 4.0
     

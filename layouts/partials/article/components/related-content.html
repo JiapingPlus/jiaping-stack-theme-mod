@@ -1,3 +1,4 @@
+<!-- 不知道为什么会多出来这个html，估计是我23年4月乱搞留下的……总之这个格式并没有得到使用，所以在single.html里应该引用related-contents而不是这个related-content。这个页面就当遗迹放着吧（。 -->
 {{ $related := (where (.Site.RegularPages.Related .) "Params.hidden" "!=" true) | first 5 }}
 {{ with $related }}
 <aside class="related-content--wrapper">

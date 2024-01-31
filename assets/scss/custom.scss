@@ -10,6 +10,7 @@
         display: none;
     }
 }
+
 //这一块让右侧栏滑动起来
 
 // .widget {
@@ -292,3 +293,16 @@ html{
     --code-font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
     --article-font-family: "KingHwa_OldSong";
 }
+
+//修改相关文章推荐的图标样式（我没用，直接在article.scss中修改了）
+// .related-contents--wrapper {
+//     .related-contents {
+//         article {
+//             width: 200px;
+//             height: 85px;
+//             .article-title {
+//                 font-size: 1.6rem;
+//             }
+//         }
+//     }
+// }
