@@ -23,7 +23,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --accent-color-darker: #2c3e50;
     --accent-color-text: #fff;
 
-    --body-text-color: #676767;
+    --body-text-color: #424141;
     // 首页的描述啊home啊斜杠啊什么的颜色
 
     --tag-border-radius: 4px;
@@ -67,8 +67,9 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 *   Card style
 */
 :root {
-    --card-background: rgba(255, 255, 255, 0.56);
+    --card-background: rgba(255, 255, 255, 0.70);
     //首页卡片颜色
+    //最后一个是透明度
 
     --card-background-selected: #eaeaea;
 

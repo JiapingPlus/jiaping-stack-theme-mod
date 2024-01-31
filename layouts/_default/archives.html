@@ -1,5 +1,6 @@
 {{ define "body-class" }}template-archives{{ end }}
 {{ define "main" }}
+    <!-- categories部分 -->
     {{- $taxonomy := $.Site.GetPage "taxonomyTerm" "categories" -}}
     {{- $terms := $taxonomy.Pages -}}
     {{ if $terms }}
@@ -13,6 +14,7 @@
     </div>
     {{ end }}
 
+    <!-- TAGS部分 -->
     {{- $taxonomy := $.Site.GetPage "taxonomyTerm" "tags" -}} 
     {{- $terms := $taxonomy.Pages -}}
     {{ if $terms }}
@@ -26,6 +28,7 @@
     </div>
     {{ end }}
 
+    <!-- 如果想要改回原本的代码，可以看塔塔demo站代码改回来 -->
     {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
     {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
     {{ $filtered := ($pages | intersect $notHidden) }}
