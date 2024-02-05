@@ -53,5 +53,5 @@ link.json格式为：
 
 > **名称**：次世嘉平  
 > **简介**：为免天下无所适从  
-> **地址**：[https://potatoplus.icu/](https://potatoplus.icu/)  
+> **地址**：[https://jiapingplus.icu/](https://jiapingplus.icu/)  
 > **头像**：[https://cdn.jsdelivr.net/gh/5ammyZ/jiaping-blog-pictures@main/stack-pics/avatar.png](https://cdn.jsdelivr.net/gh/5ammyZ/jiaping-blog-pictures@main/stack-pics/avatar.png)
