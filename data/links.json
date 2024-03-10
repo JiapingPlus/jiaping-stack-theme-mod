@@ -28,5 +28,11 @@
         "website": "https://www.summeringway.icu/",
         "image": "summer.png",
      "description": "像鸟儿编辑它们的飞行一般书写。"
+    },
+    {
+        "title": "Mostima",
+        "website": "https://mostima.blog/",
+        "image": "mostima.png",
+     "description": "拍碎波浪的一千朵太阳"
     }
 ]
