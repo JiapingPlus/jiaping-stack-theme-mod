@@ -1,25 +1,24 @@
 ---
 title: "Friends"
-date: 2019-05-28
 description: 
 slug: "links"
 layout: links
-comments: false
-license: false
-menu: 
+license: 
+hidden: false
+comments: true
+draft: false
+menu:
     main:
         name: Friends
         weight: -90
         params:
-            icon: anchor
-        
+            icon: anchor   
 ---
 <style>
 .article-header {
-    display: none;
-  }
+    display: none;}
 .article-footer {
-	display: none;
+    display: none;
   }
 
 </style>

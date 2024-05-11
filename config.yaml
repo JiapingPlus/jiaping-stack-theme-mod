@@ -104,7 +104,7 @@ params:
                 - url
             placeholder:
             locale:
-                admin: 首阳山发电风车
+                admin: 发电风车
 
         twikoo:
             envId:
