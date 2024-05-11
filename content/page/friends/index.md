@@ -1,18 +1,15 @@
 ---
 title: "Friends"
-description: 
-slug: "links"
-layout: links
-license: 
-hidden: false
+description: ""
+layout: "links"
+license: ""
 comments: true
-draft: false
 menu:
-    main:
-        name: Friends
-        weight: -90
-        params:
-            icon: anchor   
+  main:
+    name: "Friends"
+    weight: -90
+    params:
+      icon: "anchor"
 ---
 <style>
 .article-header {

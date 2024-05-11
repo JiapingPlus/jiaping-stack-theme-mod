@@ -33,9 +33,23 @@
         {{ end }}
     </div>
 
-    {{ if or (not (isset .Params "comments")) (eq .Params.comments "true")}} 
+    {{ if eq .Title "Friends" }}
+        <div style="margin-top: 40px;"></div>
+    {{ end }}
+
+    <!-- 很笨拙但有效地调整评论区：使用之前的语句
+            {{ if or (not (isset .Params "comments")) (eq .Params.comments "true")}} 
         {{ partial "comments/include" . }}
     {{ end }}
+        友链这里显示不出来评论区；但是使用如下能显示评论区的代码，它和友链之间没有间隔。没有找出来具体问题在哪，最终，简单粗暴地设了一个特定的css...
+    不想要这个评论区了的话，把上面的if和下面的if删掉，替换成注释里的这个就可以了（。）
+    
+    -->
+
+    {{ if not (eq .Params.comments false) }}
+        {{ partial "comments/include" . }}
+    {{ end }}
+
 
     {{ partialCached "footer/footer" . }}
 
