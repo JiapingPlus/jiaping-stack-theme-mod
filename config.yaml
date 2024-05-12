@@ -208,7 +208,7 @@ menu:
 
         - identifier: rss
           name: RSS
-          url: https://potatoplus.icu/index.xml
+          url: https://jiapingplus.icu/index.xml
         #   是不是也可以直接/index.xml  
         #   好像会报错但先这样吧
           params:
