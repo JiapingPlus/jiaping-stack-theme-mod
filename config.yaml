@@ -1,8 +1,8 @@
-baseurl: https://potatoplus.icu
+baseurl: https://jiapingplus.icu
 languageCode: en-us
 theme: stack
 paginate: 5
-title: 次世嘉平
+title: 车前我
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -41,7 +41,7 @@ params:
 
     sidebar:
         emoji: 🦉
-        subtitle: 为免天下无所适从
+        subtitle: 匪兕匪虎，率彼旷野
         avatar:
             enabled: true
             local: true
