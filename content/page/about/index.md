@@ -6,7 +6,7 @@ aliases:
   - about-us
   - about-hugo
   - contact
-lastmod: '2023-04-04'
+lastmod: '2024-10-10'
 slug: about-jiaping
 menu:
     main: 
@@ -18,10 +18,11 @@ menu:
 ## 关于我
 
 可以叫我**嘉平**，当然叫你所知道的别的称呼也都可以。
-	
+
+之前被称呼，其实就是截取账号名称的几个字这样！所以你现在也可以叫我**车前**。
 
 
-* **目前**：在雨世界和空洞骑士转悠。作为迭代器爱好者生活在稽顶盒上(?)
+* **目前**：在雨世界和空洞骑士转悠。就这么作为迭代器爱好者生活在稽顶盒上(?)
 <br/>
 * **预警**：偶尔做回丕司马史同女，真三国无双就这么害了我一辈子。
 
@@ -69,7 +70,7 @@ menu:
 
 * **23/04/07**：[安装Umami](https://mantyke.icu/posts/2021/umami-build/)/[Waline设置邮件通知提醒](https://gregueria.icu/posts/decoration/)(目前还在失败状态!)
 
-* **23/04/11**：改动字数icon(擦汗，我不大记得自己在哪里动的了，好像是在article.scss里…)/修改代码块与代码高亮风格与更改鼠标选中样式与行内代码块样式：[参考1](https://blog.echosec.top/p/custom-hugo-theme-styles/#%E4%BF%AE%E6%94%B9%E9%80%89%E4%B8%AD%E7%9B%AE%E6%A0%87%E6%A0%B7%E5%BC%8F)、[参考2](https://cloud.tencent.com/developer/article/1855918)
+* **23/04/11**：改动日期与字数icon(位于layouts下的details.html)/修改代码块与代码高亮风格与更改鼠标选中样式与行内代码块样式：[参考1](https://blog.echosec.top/p/custom-hugo-theme-styles/#%E4%BF%AE%E6%94%B9%E9%80%89%E4%B8%AD%E7%9B%AE%E6%A0%87%E6%A0%B7%E5%BC%8F)、[参考2](https://cloud.tencent.com/developer/article/1855918)
 
 * **23/04/21**：[基于Github+jsDelivr+PicGo搭建图床](https://blog.csdn.net/weixin_45731256/article/details/116309836?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-116309836-blog-119355964.235%5Ev27%5Epc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-116309836-blog-119355964.235%5Ev27%5Epc_relevant_3mothn_strategy_recovery&utm_relevant_index=1)
 
@@ -82,6 +83,8 @@ menu:
 * **23/12/11**：首页[添加不蒜子以统计总访问量](https://irithys.com/p/%E7%BB%99hugo%E5%8A%A0%E4%B8%80%E7%82%B9%E5%A5%BD%E7%8E%A9%E7%9A%84%E5%8A%9F%E8%83%BD/#%E8%AE%BF%E9%97%AE%E7%BB%9F%E8%AE%A1)
 
 * **24/01/31**：修改文章内容的左右边距/根据鹤辞博客[眠于水月间](https://www.sleepymoon.cyou/2023/1stanniversary/)中“归档界面文章按年份折叠的代码调整了归档页面，非常漂亮实用的改动，谢谢！
+
+* **24/10/10**：参考迭代器无稽烦忧配色(。)修改博客背景颜色&卡片颜色&引用块颜色&标题颜色&选中区域颜色/更换博客名称及头像/改动Interest页面并添加图片/根据[爱海的装修日志02](https://naturaleki.one/post/loading-hugo-02/)中鼠标样式修改部分，将鼠标光标设置为[雨世界蛞蝓猫鼠标指针](https://www.bilibili.com/video/BV1Ch4y1R7gk/)。蛞蝓猫——
 
 <br/>
 

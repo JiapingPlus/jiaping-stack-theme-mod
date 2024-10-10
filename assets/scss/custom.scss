@@ -100,7 +100,7 @@ blockquote.quote {
 
 //文本黑幕效果
 .shady {
-   color:#000;
+   color:#6c6485;
    font-weight: bold;
    box-shadow: 0px -20px 0px rgba(0,0,0,1) inset; 
    transition: all 0.3s ease;
@@ -300,13 +300,12 @@ html{
 
 // 尝试修改鼠标光标
 body {
-    cursor: url(img/rw-pointer/cat.png), default; /* 默认鼠标指针样式 */
+    cursor: url('/img/rw-pointer/cat.png'), default; /* 默认鼠标指针样式 */
 }
 
 a:hover{
-    cursor:url(img/rw-pointer/moon.png), pointer; /* 链接鼠标指针样式 */
+    cursor:url('/img/rw-pointer/moon.png'), pointer; /* 链接鼠标指针样式 */
 }
-
 
 //修改相关文章推荐的小卡片样式（我没用，直接在article.scss中修改了）
 // .related-contents--wrapper {

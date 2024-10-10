@@ -28,6 +28,7 @@
                 {{ partial "helper/icon" "date" }}
                 <time class="article-time--published">
                     {{- .Date.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") -}}
+                <!-- 这里定义文章的发表时间小图标 -->
                 </time>
             </div>
         {{ end }}
@@ -35,6 +36,7 @@
         {{ if .Site.Params.article.readingTime }}
             <div>
                 {{ partial "helper/icon" "pencil" }}
+                <!-- 这里定义文章的字数小图标 -->
                 <time class="article-words">
                     {{ .WordCount }}字
                 </time>

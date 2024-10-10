@@ -23,6 +23,7 @@ permalinks:
     page: /:slug/
 
 params:
+
     mainSections:
         - post
     featuredImageField: image
