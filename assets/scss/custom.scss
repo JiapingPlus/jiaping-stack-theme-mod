@@ -298,6 +298,16 @@ html{
     --article-font-family: "KingHwa_OldSong";
 }
 
+// 尝试修改鼠标光标
+body {
+    cursor: url(img/rw-pointer/cat.png), default; /* 默认鼠标指针样式 */
+}
+
+a:hover{
+    cursor:url(img/rw-pointer/moon.png), pointer; /* 链接鼠标指针样式 */
+}
+
+
 //修改相关文章推荐的小卡片样式（我没用，直接在article.scss中修改了）
 // .related-contents--wrapper {
 //     .related-contents {
