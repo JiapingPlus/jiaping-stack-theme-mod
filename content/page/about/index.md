@@ -24,7 +24,7 @@ menu:
 
 * **目前**：在雨世界和空洞骑士转悠。就这么作为迭代器爱好者生活在稽顶盒上(?)
 <br/>
-* **预警**：偶尔做回丕司马史同女，真三国无双就这么害了我一辈子。
+* **预警**：偶尔做回丕司马史同女，主要是假借死人名义去洛阳玩。
 
 * **站点域名**：嘉平PLUS版本堂堂运行中！这次购买了两年份，应当可以用很久。
 * **博客头像**：来自我的朋友VV，摄于首阳山。
@@ -54,7 +54,7 @@ menu:
 
 * 感谢[塔塔的建站教程](https://mantyke.icu/posts/2021/hugo-build-blog/?continueFlag=40dec74b83a5ab909bce5cd15471c5eb%20%20)，没有这篇文章的话我是不会建好这个网站的！
 
-* **23/04/02**：建站完成，[模板来自塔塔的魔改stack](https://mantyke.icu/posts/2022/stack-theme-mod/) 
+* **23/04/02**：建站完成，模板来自[塔塔的魔改stack](https://mantyke.icu/posts/2022/stack-theme-mod/) 
 
 ### 装修
 
@@ -84,7 +84,7 @@ menu:
 
 * **24/01/31**：修改文章内容的左右边距/根据鹤辞博客[眠于水月间](https://www.sleepymoon.cyou/2023/1stanniversary/)中“归档界面文章按年份折叠的代码调整了归档页面，非常漂亮实用的改动，谢谢！
 
-* **24/10/10**：参考迭代器无稽烦忧配色(。)修改博客背景颜色&卡片颜色&引用块颜色&标题颜色&选中区域颜色/更换博客名称及头像/改动Interest页面并添加图片/根据[爱海的装修日志02](https://naturaleki.one/post/loading-hugo-02/)中鼠标样式修改部分，将鼠标光标设置为[雨世界蛞蝓猫鼠标指针](https://www.bilibili.com/video/BV1Ch4y1R7gk/)。蛞蝓猫——
+* **24/10/10**：<span class="shady">参考迭代器无稽烦忧配色</span>修改博客背景颜色&卡片颜色&引用块颜色&标题颜色&选中区域颜色/更换博客名称及头像/改动Interest页面并添加图片/根据[爱海的装修日志02](https://naturaleki.one/post/loading-hugo-02/)中鼠标样式修改部分，将鼠标光标设置为[雨世界蛞蝓猫鼠标指针](https://www.bilibili.com/video/BV1Ch4y1R7gk/)。蛞蝓猫——
 
 <br/>
 
