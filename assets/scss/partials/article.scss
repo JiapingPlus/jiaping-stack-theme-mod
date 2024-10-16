@@ -57,14 +57,15 @@
 }
 
 .article-title {
-    font-weight: 500;
+    font-weight: normal;
     // 首页及归档、文本等页的标题的粗细
     margin: 10px 0;
     color: var(--card-text-color-main);
     font-size: 2.2rem;
+    // 动了对电脑端没什么影响
 
     @include respond(xl) {
-        font-size: 2.3rem;
+        font-size: 2.4rem;
         // 标题字号
     }
 

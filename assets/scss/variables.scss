@@ -49,10 +49,17 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 */
 :root {
     --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
-    --zh-font-family: "KingHwa_OldSong", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
-    --base-font-family: "Huiwen-mincho", var(--zh-font-family), sans-serif;
+    --zh-font-family: "Huiwen-mincho", "Noto Serif SC", "I.Ming", "KingHwa_OldSong", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
+
+    /* Home页及左栏、右侧栏字体*/
+    --base-font-family: "Huiwen-mincho", "KingHwa_OldSong", var(--zh-font-family), sans-serif;
+
+    /* 代码字体 */
     --code-font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
-    --article-font-family: "KingHwa_OldSong";
+
+    /* 文章正文字体 */
+    // --article-font-family: "KingHwa_OlgSong";
+    // 其实没什么用，网页正文文章的字体在costom.html加载
 }
 
 
@@ -122,7 +129,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --article-font-size: 1.65rem; //字号
     }
 
-    --article-line-height: 1.6; //行距
+    --article-line-height: 1.65; //行距
 }
 
 /*

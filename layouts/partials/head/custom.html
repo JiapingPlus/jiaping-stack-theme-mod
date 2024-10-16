@@ -1,28 +1,9 @@
-<!-- 思源宋体 -->
-<!-- <style>
-    :root {
-        --article-font-family: "Noto Serif SC", var(--base-font-family);
-    }
-</style>
-
-<script> //正文字重300，标题字重700
-		(function () {
-		    const customFont = document.createElement('link');
-		    customFont.href = "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;700&display=swap"; 
-		    customFont.type = "text/css";
-		    customFont.rel = "stylesheet";
-		
-		    document.head.appendChild(customFont);
-		}());
-</script> -->
-
 <!-- 汇文明朝体 -->
-<!-- <style>
+<style>
   :root {
       --article-font-family: "Huiwen-mincho";
   }
 </style>
-
 <script>
   (function () {
       const customFont = document.createElement('link');
@@ -32,7 +13,7 @@
   
       document.head.appendChild(customFont);
   }());
-</script> -->
+</script>
 
 <!-- 京华老宋体 -->
 <style>
@@ -40,11 +21,10 @@
       --article-font-family: "KingHwa_OldSong";
   }
 </style>
-
 <script> 
   (function () {
       const customFont = document.createElement('link');
-      customFont.href = "https://ik.imagekit.io/jiaping/%E4%BA%AC%E8%8F%AF%E8%80%81%E5%AE%8B%E4%BD%93v1/result.css"; 
+      customFont.href = "https://ik.imagekit.io/jiaping/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css"; 
       customFont.type = "text/css";
       customFont.rel = "stylesheet";
   
@@ -52,19 +32,25 @@
   }());
 </script>
 
+<!-- 这里是京华老宋体覆盖了汇文明朝，因为变量都命名为--artical-font-family。 -->
+
+<!-- 用这个格式加载字体超快。所以就不用引入CDN链接的方式了！但我也不知道为什么汇文明朝体/京华老宋没有CDN引入吧，也能用。难道引入一次就行？ -->
+
 <!-- 瀑布流相册 -->
 <style>
   .gallery-photos{width:100%;break-inside: avoid;margin-bottom: 10px;}
   .gallery-photo{width:33.3%;position: relative;padding:0px 4px 0px 4px;visibility: hidden;overflow: hidden;}
   .gallery-photo.visible{visibility: visible;}
   .gallery-photo img{width: 100%;height: 100%;object-fit: cover;border-radius: 5px;box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);}
-  @media screen and (min-width: 1200x) {
+  /* @media screen and (min-width: 1200px) {
     .gallery-photo{
     width: 100%;
     columns: 3;
     column-gap: 20px;
-    }
+    } 
   }
+  */
+
   @media screen and (min-width: 860px) and (max-width: 1323.98px) {
     .gallery-photo{    
     width: 100%;
@@ -80,12 +66,3 @@
     .photo-time{display: none;}
   }
 </style>
-
-<!-- 字体css载入
-<link href="https://ik.imagekit.io/jiaping/%E6%B1%87%E6%96%87%E6%98%8E%E6%9C%9D%E4%BD%93/result.css" rel="stylesheet" />
-
-<style>
-  .use-my-font {
-    font-family: 'Huiwen-mincho'; 
-  }
-</style> -->

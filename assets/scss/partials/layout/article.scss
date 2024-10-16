@@ -36,6 +36,7 @@
         .article-content {
             margin: var(--card-padding) 0;
             color: var(--card-text-color-main);
+            font-weight: normal; // 设置字重为400或normal
 
             img {
                 max-width: 90%; // 原本是100%
