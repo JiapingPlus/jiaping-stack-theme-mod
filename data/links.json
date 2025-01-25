@@ -52,5 +52,17 @@
         "website": "https://write.c7.io/tyou/",
         "image": "tiantian.jpeg",
         "description": "Strength can be built."
-    }    
+    },
+    {
+        "title": "深海鱼拒绝触礁",
+        "website": "https://trails-of-isara.vercel.app/",
+        "image": "shasha.png",
+        "description": "把最棒的吊桥效应献给你"
+    }, 
+    {
+        "title": "此地有野狗出没",
+        "website": "https://luoshui.icu/",
+        "image":"bai.jpg",
+        "description": "小心！野兽凶猛！"
+    } 
 ]
