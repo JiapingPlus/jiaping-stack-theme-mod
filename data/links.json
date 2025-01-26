@@ -70,5 +70,11 @@
         "website": "https://turquoise.one/",
         "image":"fuyou.png",
         "description": "一位普通美女的小窝"
+    },
+    {
+        "title": "枕石",
+        "website": "https://zhen-shi.github.io/",
+        "image":"shubing.png",
+        "description": "鲸饮未吞海，剑气已横秋."
     }
 ]
